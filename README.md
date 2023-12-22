@@ -1,6 +1,6 @@
 # Implementation of the paper "WToE: Learning When to Explore in Multi-Agent Reinforcement Learning"
 
-This is the code for ["WToE: Learning When to Explore in Multi-Agent Reinforcement Learning"](https://ieeexplore.ieee.org/abstract/document/10324374/).
+This is the code for the paper ["WToE: Learning When to Explore in Multi-Agent Reinforcement Learning"](https://ieeexplore.ieee.org/abstract/document/10324374/).
 
 ## Environment
 1. Grid Examples: The environment contains two basic grid environment (2-room and 4-room environments), which are implemented in the `GRID/ENV` file.
