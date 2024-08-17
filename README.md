@@ -16,6 +16,10 @@ Please follow the instruction of 'README.md' file in different environments to i
   title={WToE: Learning When to Explore in Multi-Agent Reinforcement Learning},
   author={Dong, Shaokang and Mao, Hangyu and Yang, Shangdong and Zhu, Shengyu and Li, Wenbin and Hao, Jianye and Gao, Yang},
   journal={IEEE Transactions on Cybernetics},
-  year={2023}
+  year={2024},
+  volume={54},
+  number={8},
+  pages={4789-4801},
+  doi={10.1109/TCYB.2023.3328732}
 }
 ```
